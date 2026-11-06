@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>www.fiio.com</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin-top: 50px;
+        }
+
+        .father_window {
+            width: 300px;
+            height: 400px;
+            text-align: left;
+            margin: auto;
+            background-color: #a4e5ee;
+
+        }
+
+        .head_title {
+            width: 300px;
+            height: 50px;
+            padding: 10px;
+            background-color: #12ddaa;
+            color: white;
+        }
+
+        .div_wifi_msg {
+            width: 270px;
+            height: 90px;
+            text-align: left;
+            margin: auto;
+            background-color: #eee;
+            border-radius: 10px;
+            color: #666;
+
+        }
+
+        .div_wifi_msg form div {
+            padding-right: 15px;
+            padding-top: 2px;
+            text-align: right;
+        }
+
+        label {
+            width: 100px;
+            text-align: left;
+            display: inline-block;
+        }
+
+        .submit_input {
+            color: #666;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="father_window">
+        <h2 class="head_title">FiiO WIFI CONFIGURE</h2>
+        <div class="div_wifi_msg">
+            <form name="input" action="192.168.237.1" method="GET">
+                <div>
+                    <table >
+                        <tr>
+                            <td> ssid:</td>
+                            <td><input type="text" name="ssid"></td>
+                        </tr>
+                        <tr>
+                            <td>password</td>
+                            <td> <input type="password" name="password"></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><input type="submit" value="Submit" class="submit_input"></td>
+                        </tr>
+                    </table>
+                    
+                </div>
+            </form>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
