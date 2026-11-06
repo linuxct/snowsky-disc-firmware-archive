@@ -1,0 +1,170 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "关闭",
+                "爵士",
+                "摇滚",
+                "R&B",
+                "HIP-HOP",
+                "流行",
+                "舞曲",
+                "古典",
+                "复古",
+                "齿音衰减1",
+                "齿音衰减2"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "關閉",
+                "爵士",
+                "搖滾",
+                "R&B",
+                "HIP-HOP",
+                "流行",
+                "舞曲",
+                "古典",
+                "復古",
+                "齒音衰竭1",
+                "齒音衰竭2"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Off",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "Off",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "刺さり低減1",
+                "刺さり低減2"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "Off",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Off",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "WYŁ.",
+                "Jazz",
+                "Skała",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Taniec",
+                "Klasyczny",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Disattivato",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "流行",
+                "Dance",
+                "Classica",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "AUS",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Klassik",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Éteint",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Выкл.",
+                "Джаз",
+                "Рок",
+                "R&B",
+                "HIP-HOP",
+                "Поп",
+                "Танцевальный",
+                "Классический",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        }
+        
+    }
+}

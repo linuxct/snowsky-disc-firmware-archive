@@ -1,0 +1,134 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "全部歌曲",
+                "艺术家",
+                "专辑",
+                "风格",
+                "我的最爱",
+                "我的列表",
+                "分类播放"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "全部歌曲",
+                "歌手",
+                "專輯",
+                "風格",
+                "我的最愛",
+                "我的列表",
+                "歌曲分類"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "ALL SONGS",
+                "Artist",
+                "Album",
+                "Genre",
+                "Favorites",
+                "My playlists",
+                "Category"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "すべての楽曲",
+                "アーティスト",
+                "アルバム",
+                "ジャンル",
+                "お気に入り",
+                "マイプレイリスト",
+                "カテゴリ"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "모든음악",
+                "아티스트",
+                "앨범",
+                "장르",
+                "즐겨찾기",
+                "My playlists",
+                "카테고리"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Todas la canciones",
+                "Artista",
+                "Album",
+                "Genero",
+                "Favoritos",
+                "My playlists",
+                "Categoria"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Wszystkie utwory",
+                "Artysta",
+                "Album",
+                "Gatunek",
+                "Ulubione",
+                "My playlists",
+                "Category"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Tutti i brani",
+                "Artista",
+                "Album",
+                "Genere",
+                "Preferiti",
+                "My playlists",
+                "Categorie"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Alle Lieder",
+                "Interpret",
+                "Album",
+                "Genre",
+                "Favoriten",
+                "My playlists",
+                "Kategorie"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Toutes les chansons",
+                "Artiste",
+                "Album",
+                "Genre",
+                "Favoris",
+                "My playlists",
+                "Catégorie"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Все песни",
+                "Исполнители",
+                "Альбомы",
+                "Жанры",
+                "Избранные",
+                "My playlists",
+                "Категории"
+            ]
+        }
+        
+    },
+    "img": [
+        "D:/usr/project/config/img/other/classify_playlist/all_songs.png",
+        "D:/usr/project/config/img/other/classify_playlist/all_songs.png",
+        "D:/usr/project/config/img/other/classify_playlist/artist.png",
+        "D:/usr/project/config/img/other/classify_playlist/album.png",
+        "D:/usr/project/config/img/other/classify_playlist/style.png",
+        "D:/usr/project/config/img/other/classify_playlist/folder.png"
+    ]
+}
