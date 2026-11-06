@@ -1,0 +1,84 @@
+{
+    "a408037b000c": [
+        {
+            "id": 1,
+            "fileName": "320X320",
+            "filePath": "/tmp/udisk1/320X320",
+            "isCue": false,
+            "isDir": true,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 2,
+            "fileName": "fiio_log",
+            "filePath": "/tmp/udisk1/fiio_log",
+            "isCue": false,
+            "isDir": true,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 3,
+            "fileName": "歌曲下载",
+            "filePath": "/tmp/udisk1/歌曲下载",
+            "isCue": false,
+            "isDir": true,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 4,
+            "fileName": "歌曲下",
+            "filePath": "/tmp/udisk1/歌曲下",
+            "isCue": false,
+            "isDir": true,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 5,
+            "fileName": "K17_update_images456456待删除",
+            "filePath": "/tmp/udisk1/K17_update_images456456待删除",
+            "isCue": false,
+            "isDir": true,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 6,
+            "fileName": "K17_update_images待删除",
+            "filePath": "/tmp/udisk1/K17_update_images待删除",
+            "isCue": false,
+            "isDir": true,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 7,
+            "fileName": "test111",
+            "filePath": "/tmp/udisk1/K17_update_images待删除",
+            "isCue": false,
+            "isDir": false,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        },
+        {
+            "id": 8,
+            "fileName": "test222",
+            "filePath": "/tmp/udisk1/K17_update_images待删除",
+            "isCue": false,
+            "isDir": false,
+            "isM3u": false,
+            "isSacd": false,
+            "track": 0
+        }
+    ]
+}

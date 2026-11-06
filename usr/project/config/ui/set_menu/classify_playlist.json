@@ -1,0 +1,137 @@
+{
+  "label": {
+    "zh": {
+      "obj_items": [
+        "全部歌曲",
+        "艺术家",
+        "专辑",
+        "风格",
+        "我的最爱",
+        "我的列表",
+        "分类播放",
+        "歌单"
+      ]
+    },
+    "tw": {
+      "obj_items": [
+        "全部歌曲",
+        "歌手",
+        "專輯",
+        "風格",
+        "我的最愛",
+        "我的列表",
+        "歌曲分類",
+        "歌單"
+      ]
+    },
+    "en": {
+      "obj_items": [
+        "All songs",
+        "Artist",
+        "Album",
+        "Genre",
+        "Favorites",
+        "My playlists",
+        "Category",
+        "Playlist"
+      ]
+    },
+    "ja": {
+      "obj_items": [
+        "すべての楽曲",
+        "アーティスト",
+        "アルバム",
+        "ジャンル",
+        "お気に入り",
+        "マイプレイリスト",
+        "カテゴリ",
+        "プレイリスト"
+      ]
+    },
+    "krd": {
+      "obj_items": [
+        "전체 곡",
+        "아티스트",
+        "앨범",
+        "장르",
+        "즐겨찾기",
+        "내 재생 목록",
+        "카테고리",
+        "재생 목록"
+      ]
+    },
+    "sp": {
+      "obj_items": [
+        "Todas la canciones",
+        "Artista",
+        "Album",
+        "Genero",
+        "Favoritos",
+        "Mis listas de reproducción",
+        "Categoria",
+        "Lista de reproducción"
+      ]
+    },
+    "po": {
+      "obj_items": [
+        "Wszystkie utwory",
+        "Wykonawca",
+        "Album",
+        "Gatunek",
+        "Ulubione",
+        "Moje playlisty",
+        "Kategoria",
+        "Playlista"
+      ]
+    },
+    "it": {
+      "obj_items": [
+        "Tutti i brani",
+        "Artista",
+        "Album",
+        "Genere",
+        "Preferiti",
+        "Le mie playlist",
+        "Categoria",
+        "Playlist"
+      ]
+    },
+    "ge": {
+      "obj_items": [
+        "Alle Titel",
+        "Interpret",
+        "Album",
+        "Genre",
+        "Favoriten",
+        "My playlists",
+        "Kategorie",
+        "Wiedergabeliste"
+      ]
+    },
+    "fr": {
+      "obj_items": [
+        "Toutes les pistes",
+        "Artiste",
+        "Album",
+        "Genre",
+        "Favoris",
+        "Mes playlists",
+        "Catégorie",
+        "Liste de lecture"
+      ]
+    },
+    "ru": {
+      "obj_items": [
+        "· Все треки",
+        "· Исполнитель",
+        "· Альбом",
+        "· Жанр",
+        "· Избранное",
+        "· Мои плейлисты",
+        "Категории",
+        "· Плейлист"
+      ]
+    }
+  },
+  "img": []
+}

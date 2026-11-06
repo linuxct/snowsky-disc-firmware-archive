@@ -1,0 +1,38 @@
+{
+  "label": {
+    "zh": {
+      "obj_items": [
+        "播放设置",
+        "均衡器",
+        "音频设置",
+        "网络设置",
+        "蓝牙设置",
+        "显示设置",
+        "系统设置"
+      ]
+    },
+    "en": {
+      "obj_items": [
+        "Play Setting",
+        "Equalizer",
+        "Audio Settings",
+        "Network Settings",
+        "Bluetooth Settings",
+        "Display Settings",
+        "System Settings"
+      ]
+    },
+    "ja": {
+      "obj_items": [
+        "再生設定",
+        "イコライザ",
+        "オーディオ設定",
+        "ネットワーク設定",
+        "Bluetooth設定",
+        "表示設定",
+        "システム設定"
+      ]
+    }
+  },
+  "img": []
+}

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>www.fiio.com</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin-top: 0px;
+        }
+
+        .father_window {
+            width: 900px;
+            height: 1700px;
+            text-align: left;
+            margin: auto;
+            background-color: #a4e5ee;
+
+        }
+
+        .head_title {
+            width: 900px;
+            height: 100px;
+            padding: 10px;
+            background-color: #12ddaa;
+            color: white;
+        } 
+
+        .div_wifi_msg {
+            width: 810px;
+            height: 1200px;
+            text-align: left;
+            margin: auto;
+            background-color: #eee;
+            border-radius: 20px;
+            overflow: auto;
+        }
+
+        .div_wifi_msg ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .div_wifi_msg li {
+            margin-bottom: 14px;
+            display: block;
+            padding: 8px;
+            text-decoration: none;
+            color: #666;
+            overflow: auto;
+            white-space: pre-wrap;
+        }
+
+        .div_wifi_msg li span {
+            float: right;
+        }
+
+        .div_wifi_msg li:hover {
+            background-color: rgb(224, 146, 73);
+            color: white;
+        }
+
+        .div2_connet_wifi_msg {
+            margin: auto;
+            margin-top: 20px;
+            border-radius: 15px;
+            width: 810px;
+            height: 250px;
+            color: #666;
+            background-color: #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="father_window">
+        <h1 class="head_title" style="font-size: 80px;">FiiO WIFI CONFIGURE</h1>
+        <div class="div_wifi_msg" style="font-size: 50px;">
+            <ul id="wifi_list">
+
+            </ul>
+        </div>
+        
+        <script>
+            window.onload = function () {
+                var obj_lis = document.getElementById("wifi_list").getElementsByTagName("li");
+                for (i = 0; i < obj_lis.length; i++) {
+                    obj_lis[i].onclick = function () {
+                        var str = this.textContent;
+                        var j = 3; //默认截取-10 ~ -99
+
+                        var tmp = str.substr(str.length - j);
+                        var singnal = tmp.indexOf("-");
+                        if (singnal == -1) //多截取一位,如-999
+                            str = str.substring(0, str.length - 3 - 1);
+                        else if (singnal == 0) //截取当前位置，如-99
+                            str = str.substring(0, str.length - 3);
+                        else if (singnal == 1) //截取当前位置，如-9
+                            str = str.substring(0, str.length - 2);
+                        
+                        //var str = this.innerHTML;
+                        //var index = str.indexOf("\n");
+                        //str = str.substring(0, index);
+
+                        var oTxt = document.getElementById('ssid');
+                        oTxt.value = str;
+                    }
+                }
+            }
+            
+            function check_len() {
+                var password = document.getElementById("password").value
+                var password_len = password.length;
+
+                if ((password_len > 1 && password_len < 8) || password_len > 100)
+                {
+                    alert("The password length is set at 8 ~ 100 ");
+                }   
+                else
+                {
+                    document.getElementById("myform").submit();
+                }
+            }
+        </script>
+
+        <div class="div2_connet_wifi_msg" style="font-size: 50px;">
+            <form id="myform" name="input" action="192.168.1.1" method="GET">
+                <div>
+                    <table >
+                        <tr>
+                            <td>ssid</td>
+                            <td><input type="text" style="width: 560px;height: 64px; font-size: 50px;" id="ssid" name="ssid"></td>
+                        </tr>
+                        <tr>
+                            <td>password</td>
+                            <td> <input type="text" style="width: 560px;height: 64px; font-size: 50px;" id="password" name="password"></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><input type="button" style="width: 560px;height: 80px; font-size: 50px;" value="OK" class="submit_input"  onclick="check_len()"></td>
+                        </tr>
+                    </table>
+                    
+                </div>
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>
