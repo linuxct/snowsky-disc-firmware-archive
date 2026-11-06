@@ -1,0 +1,214 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "优化电池充电",
+                "亮度",
+                "熄屏时间",
+                "屏幕旋转",
+                "睡眠关机",
+                "省电关机",
+                "播放主题",
+                "锁屏主题",
+                "封面动画",
+                "音量键自定义设置",
+                "日期与时间",
+                "Language/语言",
+                "系统升级",
+                "恢复出厂",
+                "本机信息"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "優化電池充電",
+                "亮度",
+                "熄屏時間",
+                "屏幕翻轉",
+                "睡眠關机",
+                "省電關机",
+                "播放主題",
+                "鎖屏主題",
+                "封面動畫",
+                "音量鍵自訂設定",
+                "日期與時間",
+                "Language/語言",
+                "系統升級",
+                "恢復出廠",
+                "本機資訊"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Charging optimization",
+                "Brightness",
+                "Screen-off time",
+                "Screen rotation",
+                "Sleep",
+                "Idle poweroff",
+                "Playback theme",
+                "Lock screen theme",
+                "Cover Animation",
+                "Custom volume settings",
+                "Date and Time",
+                "Language/语言",
+                "System updates",
+                "Reset all",
+                "About device"
+                
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "バッテリー保護",
+                "明るさ調整",
+                "画面オフ時間",
+                "画面の回転",
+                "スリープ",
+                "スリープタイマー",
+                "再生テーマ",
+                "ロック画面テーマ",
+                "カバーアニメーション",
+                "音量ボタンカスタム設定",
+                "日付と時刻",
+                "Language/言語設定",
+                "システム更新",
+                "デフォルト設定",
+                "DISCについて"               
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "배터리 충전 최적화",
+                "화면 밝기",
+                "화면 꺼짐 시간",
+                "화면 회전",
+                "수면모드",
+                "자동 전원 꺼짐",
+                "재생 테마",
+                "잠금 화면 테마",
+                "커버 애니메이션",
+                "볼륨 키 사용자 지정",
+                "날짜 및 시간",
+                "Language/언어",
+                "시스템 업데이트",
+                "공장 초기화",
+                "기기 정보"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Optimización de la carga",
+                "Brillo",
+                "Tiempo sin pantalla",
+                "Rotación de pantalla",
+                "Dormir",
+                "Apagado por inactividad",
+                "Reproducir tema",
+                "Tema de la pantalla de bloqueo",
+                "Animación de portada",
+                "Ajustes de volumen personalizados",
+                "Fecha y hora",
+                "Language/Lenguaje",
+                "Ajustes de sistema",
+                "Reajustar de fabrica",
+                "Acerca el DISC"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Optymalizacja ładowania",
+                "Jasność",
+                "Czas wyłączenia ekranu",
+                "Obrót ekranu",
+                "Uśpienie",
+                "Wyłączenie przy braku aktywności",
+                "Motyw odtwarzania",
+                "Motyw ekranu blokady",
+                "Animacja okładki",
+                "Personalizacja przycisków głośności",
+                "Data i godzina",
+                "Language/Język",
+                "Aktualizacje systemu",
+                "Zresetuj wszystko",
+                "Informacje o urządzeniu"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Ottimizzazione ricarica",
+                "Luminosità",
+                "Tempo di spegnimento dello schermo",
+                "Rotazione schermo",
+                "Sospensione",
+                "Spegnimento automatico per inattività",
+                "Tema di riproduzione",
+                "Tema schermata di blocco",
+                "Animazione copertina",
+                "Impostazioni volume personalizzate",
+                "Data e ora",
+                "Language/Lingua",
+                "Aggiornamenti di sistema",
+                "Ripristino ai valori di fabbrica",
+                "Informazioni sul dispositivo"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Ladeoptimierung",
+                "Helligkeit",
+                "Bildschirm-Aus-Zeit",
+                "Bildschirmdrehung",
+                "Ruhezustand",
+                "Automatisches Ausschalten",
+                "Wiedergabe-Design",
+                "Sperrbildschirm-Design",
+                "Cover Animation",
+                "Lautstärketasten anpassen",
+                "Datum und Uhrzeit",
+                "Language/Sprache",
+                "Systemaktualisierung",
+                "Alles zurücksetzen",
+                "Geräteinformationen"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Optimisation de la recharge",
+                "Luminosité",
+                "Délai d'extinction de l'écran",
+                "Rotation de l'écran",
+                "Mise en veille",
+                "Arrêt après inactivité",
+                "Thème de lecture",
+                "Thème de l'écran de verrouillage",
+                "Animation",
+                "Personnalisation des touches de volume",
+                "Date et heure",
+                "Language/Langue",
+                "Mises à jour système",
+                "Tout réinitialiser",
+                "À propos de l'appareil"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Оптимизация зарядки",
+                "Яркость",
+                "Время отключения экрана",
+                "Поворот экрана",
+                "Режим сна",
+                "Автовыключение при бездействии",
+                "Заставка экрана воспроизведения",
+                "Заставка экрана блокировки",
+                "Анимация обложки:",
+                "Пользовательские настройки громкости",
+                "Дата и время",
+                "Language/Язык",
+                "Обновление ПО",
+                "Сброс настроек",
+                "Об устройстве"
+            ]
+        }
+    }
+}
