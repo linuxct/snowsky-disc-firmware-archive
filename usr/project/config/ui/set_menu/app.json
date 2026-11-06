@@ -1,0 +1,104 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "分类播放",
+                "设置",
+                "文件浏览",
+                "正在播放",
+                "流媒体"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "歌曲分類",
+                "設定",
+                "瀏覽檔案",
+                "正在播放",
+                "串流媒體"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Category",
+                "Settings",
+                "Browse files",
+                "Now playing",
+                "Streaming"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "カテゴリ",
+                "設定",                
+                "ファイルを見る",
+                "再生中",
+                "ストリーミング"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "카테고리",
+                "설정",                
+                "파일탐색",
+                "재생 중",
+                "스트리밍"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Categoria",
+                "Ajustes",                
+                "Carpetas",
+                "Reproducción actual",
+                "Streaming"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Category",
+                "Ustawienia",                
+                "Browse Files",
+                "Teraz odtwarzane",
+                "STREAMING"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Categorie",
+                "Impostazioni",                
+                "Navigazione File",
+                "In Riproduzione",
+                "STREAMING"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Kategorie",
+                "Einstellungen",                
+                "Dateien",
+                "Wiedergabe",
+                "STREAMING"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Catégorie",
+                "Paramètres",                
+                "Navigation",
+                "En cours",
+                "STREAMING"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Категории",
+                "Настройки",                
+                "Файлы",
+                "Сейчас играет",
+                "Стриминг"
+            ]
+        }
+        
+    }
+}

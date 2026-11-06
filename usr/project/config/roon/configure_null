@@ -1,0 +1,9 @@
+{
+    "vendor":                           "FiiO",
+    "model":                            "M17",
+    "serial":                           "123456",           
+    "version":                          "0.5.9",
+    "unique_id":                        "894122e8-4507-4b22-b93d-1456789512cx",
+    "auto_name":                        "FiiO Roon"
+    
+}

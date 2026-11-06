@@ -1,0 +1,206 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "优化电池充电",
+                "亮度",
+                "熄屏时间",
+                "屏幕旋转",
+                "睡眠关机",
+                "省电关机",
+                "播放主题",
+                "锁屏主题",
+                "封面动画",
+                "封面旋转常亮",
+                "日期与时间",
+                "Language/语言",
+                "系统升级",
+                "恢复出厂",
+                "本机信息"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "優化電池充電",
+                "亮度",
+                "熄屏時間",
+                "屏幕翻轉",
+                "睡眠關机",
+                "省電關机",
+                "播放主題",
+                "鎖屏主題",
+                "封面動畫",
+                "封面旋轉常亮",
+                "日期與時間",
+                "Language/語言",
+                "系統升級",
+                "恢復出廠",
+                "本機資訊"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Charging optimization",
+                "Brightness",
+                "Screen-off time",
+                "Screen rotation",
+                "Sleep",
+                "Idle poweroff",
+                "Playback theme",
+                "Lock screen theme",
+                "Cover Animation",
+                "Cover Spinning Always On",
+                "Date and Time",
+                "Language/语言",
+                "System updates",
+                "Reset all",
+                "About device"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "バッテリー保護",
+                "明るさ",
+                "画面オフ時間",
+                "画面の回転",
+                "スリープ",
+                "スリープタイマー",
+                "再生テーマ",
+                "ロック画面テーマ",
+                "カバーアニメーション",
+                "表紙常時回転",
+                "日付と時刻",
+                "Language/言語設定",
+                "システム更新",
+                "デフォルト設定",
+                "DISCについて"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "배터리 보호",
+                "밝기",
+                "Screen-off time",
+                "Screen rotation",
+                "Sleep 모드",
+                "절전대기",
+                "테마",
+                "Clock style",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "시스템 업데이트",
+                "Factory reset",
+                "DISC 정보"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Protección de la batería",
+                "Brillo",
+                "Screen-off time",
+                "Screen rotation",
+                "Dormir",
+                "Apagado por inactividad",
+                "Tema",
+                "Clock style",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "Ajustes de sistema",
+                "Factory reset",
+                "Acerca el DISC"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Ochrana baterie",
+                "Brightness",
+                "Screen-off time",
+                "Screen rotation",
+                "Sleep",
+                "Idle poweroff",
+                "Temat",
+                "Clock style",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "Aktualizacja systemu",
+                "Factory reset",
+                "O DISC"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Protezione batteria",
+                "Brightness",
+                "Screen-off time",
+                "Screen rotation",
+                "Sleep",
+                "Idle poweroff",
+                "Tema",
+                "Stile orologio",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "Aggiornamenti di sistema",
+                "Factory reset",
+                "Informazioni sull'DISC"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Batterieschutz",
+                "Bildschirmhelligkeit",
+                "Screen-off time",
+                "Screen rotation",
+                "Sleep",
+                "Auto Abschalten",
+                "Desgin",
+                "Clock style",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "Systemaktualisierung",
+                "Factory reset",
+                "Über den DISC"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Protection de la batterie",
+                "Luminosité",
+                "Screen-off time",
+                "Screen rotation",
+                "Veille",
+                "Arrêt automatique",
+                "Fond d'écran",
+                "Clock style",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "Mise à jour du système",
+                "Factory reset",
+                "A propos du DISC"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Защита батареи",
+                "Яркость",
+                "Screen-off time",
+                "Screen rotation",
+                "Режим сна",
+                "Режим ожидания",
+                "Тема",
+                "Clock style",
+                "Cover Animation",
+                "Time setting",
+                "Language/语言",
+                "Обновление ПО",
+                "Factory reset",
+                "Про DISC"
+            ]
+        }
+    }
+}
