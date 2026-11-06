@@ -1,0 +1,22 @@
+#!/bin/sh
+#
+# time correct
+#
+
+init_file() {
+    year=$(date +%Y)
+    if [ "$year" -lt 1980 ]; then
+        date -s "2026-01-01 00:00:00"
+    fi
+}
+
+case "$1" in
+  start)
+    init_file
+	;;
+  *)
+    exit 1
+esac
+
+exit $?
+
