@@ -1,0 +1,68 @@
+{
+    "vendor":                           "FiiO",
+    "model":                            "M17",
+    "serial":                           "123456",           
+    "version":                          "0.5.9",
+    "unique_id":                        "894122e8-4507-4b22-b93d-1456789512cx",
+    "auto_name":                        "FiiO Roon",
+
+    "output": {
+                "device":                           "normal",
+                "type":                             "fiio",
+                "dsd_mode":                         "native",
+                "max_dsd_rate":                      0,
+                "mqa_capabilities":                 ["decoder"],
+                "supported_formats": [
+                        { "sample_type": "pcm", "sample_rate": 44100, "bits_per_sample": 16, "channels": 2 },
+                        { "sample_type": "pcm", "sample_rate": 48000, "bits_per_sample": 16, "channels": 2 },
+
+                        { "sample_type": "pcm", "sample_rate": 44100, "bits_per_sample": 24, "channels": 2 },
+                        { "sample_type": "pcm", "sample_rate": 48000, "bits_per_sample": 24, "channels": 2 },
+
+                        { "sample_type": "pcm", "sample_rate": 44100, "bits_per_sample": 32, "channels": 2 },
+                        { "sample_type": "pcm", "sample_rate": 48000, "bits_per_sample": 32, "channels": 2 }
+                    ],
+                "eth_sync_offset_ns": [
+                    { "sample_rate": 44100,  "offset": 302000000 },
+                    { "sample_rate": 48000,  "offset": 63000000 },
+                    { "sample_rate": 88200,  "offset": 142000000 },
+                    { "sample_rate": 96000,  "offset": 63000000 },
+                    { "sample_rate": 176400, "offset": 63000000 },
+                    { "sample_rate": 192000, "offset": 63000000 },
+                    { "sample_rate": 352800, "offset": 63000000 },
+                    { "sample_rate": 384000, "offset": 63000000 },
+                    { "sample_rate": 705600, "offset": 63000000 },
+                    { "sample_rate": 768000, "offset": 63000000 },
+                    { "sample_rate": 2822400, "offset": 142000000 },
+                    { "sample_rate": 5644800, "offset": 63000000 },
+                    { "sample_rate": 11289600, "offset": 63000000 },
+                    
+                    { "sample_rate": 44100, "offset": 302000000, "sample_subtype": "mqa"},
+                    { "sample_rate": 88200, "offset": 142000000, "sample_subtype": "mqa_core"},
+                    { "sample_rate": 48000, "offset": 63000000, "sample_subtype": "mqa"},
+                    { "sample_rate": 96000, "offset": 63000000, "sample_subtype": "mqa_core"}
+                ],
+                "wlan_sync_offset_ns": [
+                    { "sample_rate": 44100,  "offset": 302000000 },
+                    { "sample_rate": 48000,  "offset": 63000000 },
+                    { "sample_rate": 88200,  "offset": 142000000 },
+                    { "sample_rate": 96000,  "offset": 63000000 },
+                    { "sample_rate": 176400, "offset": 63000000 },
+                    { "sample_rate": 192000, "offset": 63000000 },
+                    { "sample_rate": 352800, "offset": 63000000 },
+                    { "sample_rate": 384000, "offset": 63000000 },
+                    { "sample_rate": 705600, "offset": 63000000 },
+                    { "sample_rate": 768000, "offset": 63000000 },
+                    { "sample_rate": 2822400, "offset": 142000000 },
+                    { "sample_rate": 5644800, "offset": 63000000 },
+                    { "sample_rate": 11289600, "offset": 63000000 },
+                    
+                    { "sample_rate": 44100, "offset": 302000000, "sample_subtype": "mqa"},
+                    { "sample_rate": 88200, "offset": 142000000, "sample_subtype": "mqa_core"},
+                    { "sample_rate": 48000, "offset": 63000000, "sample_subtype": "mqa"},
+                    { "sample_rate": 96000, "offset": 63000000, "sample_subtype": "mqa_core"}
+                ]
+    }
+
+    
+}

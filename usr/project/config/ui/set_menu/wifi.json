@@ -1,0 +1,214 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "无线局域网",
+                "其它网络",
+                "已断开",
+                "已连接",
+                "重新连接",
+                "刷新",
+                "忽略此网络",
+                "确认",
+                "连接成功",
+                "连接失败",
+                "返回",
+                "无线局域网",
+                "搜索其他网络",
+                "空格",
+                "密码错误"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "無線區域網路",
+                "其他網路",
+                "已斷線",
+                "已連接",
+                "重新連接",
+                "重新整理",
+                "忽略此網路",
+                "確認",
+                "連接成功",
+                "連接失敗",
+                "返回",
+                "無線局域網",
+                "搜索其它網絡",
+                "空格",
+                "密碼錯誤"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Wi-Fi network",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Rete Wi-Fi",
+                "Search",
+                "Spazio",
+                "Incorrect password"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Wireless LAN",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Ignore this network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        }
+        
+    }
+}

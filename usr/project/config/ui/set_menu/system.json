@@ -1,0 +1,126 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "工作模式",
+                "系统设置",
+                "WIFI",
+                "蓝牙",
+                "播放设置",
+                "音频设置",
+                "更新歌曲库"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "工作模式",
+                "系統設定",
+                "WiFi",
+                "藍牙",
+                "播放設定",
+                "音訊設置",
+                "更新歌曲庫"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Working mode",
+                "System settings",
+                "WIFI",
+                "Bluetooth",
+                "Playback settings",
+                "Audio settings",
+                "Update media lib"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "Working mode",
+                "システム設定",
+                "WIFI",
+                "Bluetooth",
+                "プレイヤー設定",
+                "Audio settings",
+                "ライブラリ更新"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "Working mode",
+                "시스템 설정",
+                "WIFI",
+                "블루투스",
+                "재생 설정",
+                "Audio settings",
+                "미디어 라이브러리 업데이트"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Working mode",
+                "Ajustes de sistema",
+                "WIFI",
+                "Bluetooth",
+                "Opciones Repr.",
+                "Audio settings",
+                "Actualizar Media lib"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Working mode",
+                "System settings",
+                "WIFI",
+                "BLUETOOTH",
+                "Ustawienia odtwarzania",
+                "Audio settings",
+                "Zaktualizuj bibliotekę multimediów"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Working mode",
+                "Settaggi di Sistema",
+                "WIFI",
+                "BLUETOOTH",
+                "Impost.Play",
+                "Audio settings",
+                "Aggiornamento Libreria"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Working mode",
+                "System-Einstellungen",
+                "WIFI",
+                "BLUETOOTH",
+                "Playerkonfig",
+                "Audio settings",
+                "Medienbibliothek aktualisieren"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Working mode",
+                "Réglages système",
+                "WIFI",
+                "BLUETOOTH",
+                "Réglages",
+                "Audio settings",
+                "Mise à jour de la librairie média"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Working mode",
+                "Система",
+                "WIFI",
+                "Bluetooth",
+                "Настройки",
+                "Audio settings",
+                "Обновить медиа библиотеку"
+            ]
+        }
+        
+    }
+}

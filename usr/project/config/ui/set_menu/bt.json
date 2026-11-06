@@ -1,0 +1,247 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "已配对设备",
+                "搜索新设备",
+                "连接中..",
+                "配对中..",
+                "正在搜索",
+                "断开连接",
+                "取消配对",
+                "未连接",
+                "已配对",
+                "已连接",
+                "正在重新连接...",
+                "未知状态",
+                "未发现蓝牙设备",
+                "连接失败，请确认该设备在通讯范围内且处于待配对状态",
+                "配对失败",
+                "重新连接",
+                "连接成功",
+                "连接失败"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "已配對設備",
+                "搜索新設備",
+                "連接中...",
+                "配對中...",
+                "正在搜索",
+                "中斷連接",
+                "取消配對",
+                "未連接",
+                "已配對",
+                "已連接",
+                "正在重新連接...",
+                "未知狀態",
+                "未發現藍牙裝置",
+                "連接失敗請確認該設備在通訊範圍內且處於待配對狀態",
+                "配對失敗",
+                "重新連接",
+                "連接成功",
+                "連接失敗"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Pairing..",
+                "Searching...",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Connected",
+                "Reconnecting...",
+                "Unknown status",
+                "Bluetooth device not found",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Pairing..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "接続しました",
+                "Reconnecting...",
+                "Unknown status",
+                "Bluetoothデバイスが見つかりません",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Pairing..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "연결됨",
+                "Reconnecting...",
+                "Unknown status",
+                "Bluetooth 장치를 찾을 수 없습니다",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Pairing..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Conectado",
+                "Reconnecting...",
+                "Unknown status",
+                "Dispositivo bluetooth no encontrado",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Pairing..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Połączono",
+                "Reconnecting...",
+                "Unknown status",
+                "Bluetooth device not found",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Associazione..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Associato",
+                "Connesso",
+                "Reconnecting...",
+                "Stato sconosciuto",
+                "Dispositivo Bluetooth non trovato",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Pairing..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Verbunden",
+                "Reconnecting...",
+                "Unknown status",
+                "Bluetooth Gerät nicht gefunden",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Searching...",
+                "Pairing..",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Connected",
+                "Reconnecting...",
+                "Unknown status",
+                "Appareil Bluetooth introuvable",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Pairing..",
+                "Searching...",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Подключено",
+                "Reconnecting...",
+                "Unknown status",
+                "Устройство Bluetooth не найдено",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        }
+        
+    }
+}

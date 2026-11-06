@@ -1,0 +1,113 @@
+{
+    "class1": {
+        "zh": {
+            "obj_items": [
+                "更新歌曲库",
+                "记忆播放",
+                "播放间隙",
+                "回放增益",
+                "文件夹跳曲",
+                "DSD输出",
+                "歌曲名显示"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Update song library",
+                "Memory playback",
+                "Play gap",
+                "Playback gain",
+                "Folder Jumping Song",
+                "DSD output",
+                "Song name display"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "歌曲ライブラリの更新",
+                "メモリ再生",
+                "再生ギャップ",
+                "さいせいりとく",
+                "フォルダのジャンプ",
+                "DSD出力",
+                "曲名表示"
+            ]
+        }
+    },
+
+    "class2": {
+        "zh": {
+            "obj_items": [
+                "自动更新",
+                "手动更新",
+                "关闭",
+                "记忆位置",
+                "记忆曲目",
+                "关闭",
+                "无缝",
+                "关闭",
+                "音轨",
+                "专辑",
+                "关闭",
+                "打开",
+                "D2P",
+                "Native",
+                "DOP",
+                "歌曲名",
+                "文件名"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "manual update",
+                "Automatic update",
+                "Memory position",
+                "Memory track",
+                "close",
+                "seamless",
+                "close",
+                "album",
+                "soundtrack",
+                "close",
+                "open",
+                "close",
+                "DOP",
+                "Native",
+                "D2P",
+                "file name",
+                "song name"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "手動更新",
+                "自動更新",
+                "思い出の曲",
+                "きおくいち",
+                "閉じる",
+                "シームレス",
+                "閉じる",
+                "アルバム",
+                "トラック",
+                "閉じる",
+                "開く",
+                "閉じる",
+                "DOP",
+                "Native",
+                "D2P",
+                "ファイル名",
+                "メロディー"
+            ]
+        }
+    },
+
+    "img": [
+        "D:/usr/project/config/img/other/setup_menu/play_setting/gengxinqumu.png",
+        "D:/usr/project/config/img/other/setup_menu/play_setting/jiyibofang.png",
+        "D:/usr/project/config/img/other/setup_menu/play_setting/bofangjianxi.png",
+        "D:/usr/project/config/img/other/setup_menu/play_setting/huifangzengyi.png",
+        "D:/usr/project/config/img/other/setup_menu/play_setting/wenjiantiaoqu.png",
+        "D:/usr/project/config/img/other/setup_menu/play_setting/DSD.png",
+        "D:/usr/project/config/img/other/setup_menu/play_setting/gequmingxianshi.png"
+    ]
+}
