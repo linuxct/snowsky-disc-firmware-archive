@@ -1,0 +1,247 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "已配对设备",
+                "搜索新设备",
+                "连接中..",
+                "配对中..",
+                "正在搜索",
+                "断开连接",
+                "取消配对",
+                "未连接",
+                "已配对",
+                "已连接",
+                "正在重新连接...",
+                "未知状态",
+                "未发现蓝牙设备",
+                "连接失败，请确认该设备在通讯范围内且处于待配对状态",
+                "配对失败",
+                "重新连接",
+                "连接成功",
+                "连接失败"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "已配對設備",
+                "搜索新設備",
+                "連接中...",
+                "配對中...",
+                "正在搜索",
+                "中斷連接",
+                "取消配對",
+                "未連接",
+                "已配對",
+                "已連接",
+                "正在重新連接...",
+                "未知狀態",
+                "未發現藍牙裝置！",
+                "連接失敗請確認該設備在通訊範圍內且處於待配對狀態",
+                "配對失敗",
+                "重新連接",
+                "連接成功",
+                "連接失敗"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Paired device",
+                "Search",
+                "Connecting...",
+                "Pairing..",
+                "Searching...",
+                "Disconnect",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Connected",
+                "Reconnecting...",
+                "Unknown status",
+                "No Bluetooth Device Found!",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Pairing failed",
+                "Reconnect",
+                "Connection successful",
+                "Connection failed"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "ペアリング済みデバイス",
+                "新しいデバイスを検索",
+                "接続中...",
+                "ペアリング中...",
+                "検索中...",
+                "Disconnect",
+                "ペアリング解除",
+                "未接続",
+                "ペアリング済み",
+                "接続成功",
+                "再接続中...",
+                "不明な状態",
+                "Bluetoothデバイスが見つかりません！",
+                "接続に失敗しました。デバイスが近くにあり、ペアリングモードになっていることを確認してください",
+                "ペアリングに失敗しました",
+                "再接続中",
+                "接続に成功しました",
+                "接続に失敗しました"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "페어링된 장치",
+                "새 장치 검색",
+                "연결 중..",
+                "페어링 중..",
+                "검색 중..",
+                "연결을 끊으세요",
+                "페어링 취소",
+                "연결되지 않음",
+                "페어링됨",
+                "연결됨",
+                "재연결 중...",
+                "알 수 없는 상태",
+                "블루투스 기기를 찾지 못했습니다",
+                "연결 실패. 해당 기기가 통신 범위 내에 있고 페어링 대기 상태인지 확인하십시오",
+                "페어링 실패",
+                "재연결 중",
+                "연결 성공",
+                "연결 실패"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Dispositivo emparejado",
+                "Buscar nuevos dispositivos",
+                "Conectando...",
+                "Emparejando / Emparejamiento..",
+                "Buscando...",
+                "Disconnect",
+                "Emparejamiento cancelado",
+                "No conectado",
+                "Emparejado",
+                "Conectado",
+                "Reconectando...",
+                "Estado desconocido",
+                "¡No se ha encontrado ningún dispositivo Bluetooth!",
+                "Conexión fallida. Por favor, asegúrate de que el dispositivo esté dentro del rango de comunicación y en modo de emparejamiento.",
+                "Emparejamiento fallido",
+                "Reconectando",
+                "Conexión establecida",
+                "Conexión fallida"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Sparowane urządzenie",
+                "Search Wyszukaj nowe urządzenia",
+                "Łączenie...",
+                "Parowanie..",
+                "Wyszukiwanie...",
+                "Odłączyć",
+                "Anuluj parowanie",
+                "Nie połączono",
+                "Sparowane",
+                "Podłączony",
+                "Ponowne łączenie...",
+                "Nieznany stan",
+                "Nie znaleziono żadnego urządzenia Bluetooth!",
+                "Połączenie nie powiodło się. Upewnij się, że urządzenie znajduje się w zasięgu komunikacji i jest w trybie parowania.",
+                "Parowanie nie powiodło się",
+                "Ponowne łączenie",
+                "Połączenie nawiązane",
+                "Połączenie nie powiodło się"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Dispositivo associato",
+                "Cerca nuovi dispositivi",
+                "Connessione in corso...",
+                "Associazione...",
+                "Ricerca in corso...",
+                "Disconnect",
+                "Annulla associazione",
+                "Non connesso",
+                "Associato",
+                "Connesso",
+                "Riconnessione in corso...",
+                "Stato sconosciuto",
+                "Nessun dispositivo Bluetooth trovato!",
+                "Connessione non riuscita. Assicurarsi che il dispositivo sia nel raggio di comunicazione e in modalità di associazione.",
+                "Associazione non riuscita",
+                "Riconnessione in corso",
+                "Connessione riuscita",
+                "Connessione non riuscita"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "Gekoppeltes Gerät",
+                "Search for new devices",
+                "Verbinden...",
+                "Pairing...",
+                "Suche läuft...",
+                "Trennen",
+                "Cancel pairing",
+                "Not connected",
+                "Paired",
+                "Verbunden",
+                "Reconnecting...",
+                "Unbekannter Status",
+                "No Bluetooth Device Found!",
+                "Connection failed. Please ensure that the device is within communication range and in pairing mode.",
+                "Kopplung fehlgeschlagen",
+                "Reconnecting",
+                "Verbindung erfolgreich",
+                "Verbindung fehlgeschlagen"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Appareil connecté",
+                "Rechercher d'autres appareils",
+                "Connexion...",
+                "Appairage...",
+                "Recherche...",
+                "Déconnecter",
+                "Annuler l'appairage",
+                "Pas connecté",
+                "Connecté",
+                "Connected",
+                "Reconnexion en cours...",
+                "État inconnu",
+                "Aucun appareil Bluetooth trouvé !",
+                "Échec de la connexion. Assurez-vous que l'appareil n'est pas hors portée et qu'il est en mode appairage.",
+                "Échec de l'appairage",
+                "Reconnexion en cours",
+                "Connexion réussie",
+                "Échec de la connexion"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Сопряженные устройства",
+                "Поиск новых устройств",
+                "·Подключение...",
+                "Сопряжение..",
+                "Поиск...",
+                "Disconnect",
+                "Отменить сопряжение",
+                "Не подключено",
+                "Сопряжено",
+                "Подключено",
+                "Повторное подключение...",
+                "Неизвестное состояние",
+                "Устройства Bluetooth не найдены!",
+                "Ошибка подключения. Пожалуйста, убедитесь, что устройство находится в зоне действия и в режиме сопряжения.",
+                "Ошибка сопряжения",
+                "Повторное подключение",
+                "Подключение успешно",
+                "Ошибка подключения"
+            ]
+        }
+        
+    }
+}
