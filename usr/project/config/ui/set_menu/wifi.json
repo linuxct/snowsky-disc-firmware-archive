@@ -1,0 +1,214 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "无线局域网",
+                "其它网络",
+                "已断开",
+                "已连接",
+                "重新连接",
+                "刷新",
+                "忽略此网络",
+                "确认",
+                "连接成功",
+                "连接失败",
+                "返回",
+                "无线局域网",
+                "搜索其他网络",
+                "空格",
+                "密码错误"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "無線局域網",
+                "其他網路",
+                "已斷線",
+                "已連接",
+                "重新連接",
+                "重新整理",
+                "忽略此網路",
+                "確定",
+                "連接成功",
+                "連接失敗",
+                "返回",
+                "無線局域網",
+                "搜索其它網絡",
+                "空格",
+                "密碼錯誤"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Wi-Fi network",
+                "Other networks",
+                "Disconnected",
+                "Connected",
+                "Reconnect",
+                "Refresh",
+                "Forget network",
+                "OK",
+                "Connection successful",
+                "Connection failed",
+                "Return",
+                "Wi-Fi network",
+                "Search",
+                "Space",
+                "Incorrect password"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "Wi-Fiネットワーク",
+                "その他のネットワーク",
+                "切断されました",
+                "接続成功",
+                "再接続中",
+                "更新",
+                "このネットワークを無視",
+                "確認",
+                "接続しました",
+                "接続に失敗しました",
+                "戻る",
+                "Wi-Fiネットワーク",
+                "他のネットワークを検索",
+                "スペース",
+                "パスワードが正しくありません"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "Wi-Fi 네트워크",
+                "기타 네트워크",
+                "연결이끊어졌습니다.",
+                "연결됨",
+                "재연결 중",
+                "새롭게 하다",
+                "이 네트워크를 잊기",
+                "확인",
+                "연결 성공",
+                "연결 실패",
+                "Return",
+                "Wi-Fi 네트워크",
+                "다른 네트워크 검색",
+                "공백",
+                "잘못된 비밀번호"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Red Wi-Fi",
+                "Otras redes",
+                "Desconectado",
+                "Conectado",
+                "Reconectando",
+                "Refrescar",
+                "Olvidar esta red",
+                "OK",
+                "Conexión establecida",
+                "Conexión fallida",
+                "Return",
+                "Red Wi-Fi",
+                "Buscar otras redes",
+                "Space",
+                "Contraseña incorrecta"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Sieć Wi-Fi",
+                "Inne sieci",
+                "Disconnected",
+                "Podłączony",
+                "Ponowne łączenie",
+                "Odśwież",
+                "Zapomnij tę sieć",
+                "OK",
+                "Połączenie nawiązane",
+                "Połączenie nie powiodło się",
+                "Return",
+                " Sieć Wi-Fi",
+                "Wyszukaj inne sieci",
+                "Przestrzeń",
+                "Nieprawidłowe hasło"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Rete Wi-Fi",
+                "Altre reti",
+                "Disconnected",
+                "Connesso",
+                "Riconnessione in corso",
+                "Ricarica",
+                "Dimentica questa rete",
+                "OK",
+                "Connessione riuscita",
+                "Connessione non riuscita",
+                "Return",
+                "Rete Wi-Fi",
+                "Cerca altre reti",
+                "Spazio",
+                "Password errata"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "WLAN-Netzwerk",
+                "Andere Netzwerke",
+                "Verbindung getrennt",
+                "Verbunden",
+                "Reconnecting",
+                "Aktualisieren",
+                "Dieses Netzwerk vergessen",
+                "OK",
+                "Verbindung erfolgreich",
+                "Verbindung fehlgeschlagen",
+                "Return",
+                "WLAN-Netzwerk",
+                "Search other networks",
+                "Space",
+                "Falsches Passwort"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Réseaux Wi-Fi",
+                "Autres réseaux",
+                "déconnecté",
+                "Connecté",
+                "Reconnexion en cours",
+                "Rafraîchir",
+                "Oublier ce réseau",
+                "OK",
+                "Connexion réussie",
+                "Échec de la connexion",
+                "Return",
+                "Réseaux Wi-Fi",
+                "Rechercher d'autres réseaux",
+                "Espace",
+                "Mot de passe incorrect"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Сеть Wi-Fi",
+                "Другие сети",
+                "Disconnected",
+                "Подключено",
+                "Повторное подключение",
+                "Refresh",
+                "Забыть эту сеть",
+                "OK",
+                "Подключение успешно",
+                "Ошибка подключения",
+                "Return",
+                "Сеть Wi-Fi",
+                "Поиск других сетей",
+                "Место ",
+                "Неверный пароль"
+            ]
+        }
+        
+    }
+}

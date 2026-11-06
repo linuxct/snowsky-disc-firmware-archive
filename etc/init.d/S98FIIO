@@ -1,0 +1,72 @@
+#!/bin/sh
+#
+# Start fiio init
+#
+
+dir_ap6256="/usr/data/ap6256"
+dir_wifi="/usr/data/ap6256/wifi_bcm/"
+dir_bt="/usr/data/ap6256/bt_bcm/"
+
+dir_fiio_music="/usr/data/fiio/"
+dir_fiio_zlog="/usr/data/fiio/log"
+dir_fiio_wifi="/usr/data/fiio/wifi/"
+dir_fiio_db="/usr/data/fiio/db/"
+
+
+init_file() {
+    #wifi调试使用，最终不需要
+    if [ ! -d "$dir_ap6256" ]
+    then
+        mkdir $dir_ap6256
+        mkdir $dir_wifi
+        cp /lib/firmware/wifi_bcm/* $dir_wifi
+
+        mkdir $dir_bt
+        cp /lib/firmware/bt_bcm/* $dir_bt
+    fi
+
+    #最终输出固件需要带的
+    if [ ! -d "$dir_fiio_music" ]
+    then
+        mkdir -p $dir_fiio_music
+        mkdir -p $dir_fiio_zlog
+        mkdir -p $dir_fiio_wifi
+        mkdir -p $dir_fiio_db
+        cp /usr/project/config/wifi/* $dir_fiio_wifi
+        cp /etc/hostapd.conf /usr/data
+        cp /usr/project/db/* $dir_fiio_db
+        cp /usr/project/config/zlog.conf $dir_fiio_zlog
+    else
+        if [ ! -d "$dir_fiio_zlog" ]
+        then
+            mkdir $dir_fiio_zlog
+            cp /usr/project/config/zlog.conf $dir_fiio_zlog
+        fi
+
+        if [ ! -d "$dir_fiio_wifi" ]
+        then
+            mkdir $dir_fiio_wifi
+            cp /usr/project/config/wifi/* $dir_fiio_wifi
+        fi
+
+        if [ ! -d "$dir_fiio_db" ]
+        then
+            mkdir $dir_fiio_db
+            cp /usr/project/db/* $dir_fiio_db
+        fi
+    fi
+
+    #启动程序
+    /usr/project/fiio_init.sh &
+}
+
+case "$1" in
+  start)
+    init_file
+	;;
+  *)
+    exit 1
+esac
+
+exit $?
+
