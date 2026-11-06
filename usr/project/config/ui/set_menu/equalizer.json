@@ -1,0 +1,170 @@
+{
+    "label": {
+        "zh": {
+            "obj_items": [
+                "关闭",
+                "爵士",
+                "摇滚",
+                "R&B",
+                "HIP-HOP",
+                "流行",
+                "舞曲",
+                "古典",
+                "复古",
+                "齿音衰减1",
+                "齿音衰减2"
+            ]
+        },
+        "tw": {
+            "obj_items": [
+                "關閉",
+                "爵士",
+                "搖滾",
+                "R&B",
+                "HIP-HOP",
+                "流行",
+                "舞曲",
+                "古典",
+                "復古",
+                "齒音衰竭1",
+                "齒音衰竭2"
+            ]
+        },
+        "en": {
+            "obj_items": [
+                "Off",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "ja": {
+            "obj_items": [
+                "オフ",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "刺さり低減1",
+                "刺さり低減2"
+            ]
+        },
+        "krd": {
+            "obj_items": [
+                "끄기",
+                "재즈",
+                "록",
+                "R&B",
+                "힙합",
+                "팝",
+                "댄스",
+                "클래식",
+                "레트로",
+                "치찰음 감소 1",
+                "치찰음 감소 2"
+            ]
+        },
+        "sp": {
+            "obj_items": [
+                "Off",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classical",
+                "Retro",
+                "Atenuación de sibilancia 1",
+                "Atenuación de sibilancia 2"
+            ]
+        },
+        "po": {
+            "obj_items": [
+                "Wyłączone",
+                "Jazz",
+                "Skała",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Taniec",
+                "Klasyczny",
+                "Retro",
+                "Tłumienie sybilantów 1",
+                "Tłumienie sybilantów 2"
+            ]
+        },
+        "it": {
+            "obj_items": [
+                "Disattivato",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classica",
+                "Retrò",
+                "Riduzione delle sibilanti 1",
+                "Riduzione delle sibilanti 2"
+            ]
+        },
+        "ge": {
+            "obj_items": [
+                "AUS",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Klassik",
+                "Retro",
+                "Sibilance attenuation 1",
+                "Sibilance attenuation 2"
+            ]
+        },
+        "fr": {
+            "obj_items": [
+                "Désactivé",
+                "Jazz",
+                "Rock",
+                "R&B",
+                "HIP-HOP",
+                "Pop",
+                "Dance",
+                "Classique",
+                "Rétro",
+                "Atténuation sibilance 1",
+                "Atténuation sibilance 2"
+            ]
+        },
+        "ru": {
+            "obj_items": [
+                "Выкл.",
+                "Джаз",
+                "Рок",
+                "R&B",
+                "HIP-HOP",
+                "Поп",
+                "Танцевальный",
+                "Классический",
+                "Ретро",
+                "Ослабление сибилянтов 1",
+                "Ослабление сибилянтов 2"
+            ]
+        }
+        
+    }
+}
