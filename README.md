@@ -123,7 +123,8 @@ exist. An explicit output directory retains the archives, rootfs and
 The workflow runs once daily at **04:17 UTC** and can also be started manually.
 There are no push or pull-request triggers. Publication runs are serialized
 without cancelling a run already in progress, with a 45-minute timeout and only
-`contents: write` permission. Actions are pinned to commit SHAs.
+`contents: write` permission. The runner uses Ubuntu 24.04; Node.js 24-compatible
+actions are pinned to commit SHAs.
 
 Manual runs offer `build_only` (default false) and `current_version` (default
 empty). A current-version override requires `build_only=true` to prevent
