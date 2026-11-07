@@ -1,0 +1,64 @@
+name: Archive OTA
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+    inputs:
+      build_only:
+        description: Build and validate without publishing
+        type: boolean
+        required: false
+        default: false
+      current_version:
+        description: Numeric starting version (requires build_only)
+        type: string
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ota-publication
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out main
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes squashfs-tools git-lfs
+          python -m pip install --requirement requirements.txt
+      - name: Build and publish OTA archive
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BUILD_ONLY: ${{ inputs.build_only }}
+          CURRENT_VERSION: ${{ inputs.current_version }}
+        run: |
+          set -euo pipefail
+          args=(--repo "$GITHUB_REPOSITORY")
+          if [[ "$BUILD_ONLY" == "true" ]]; then
+            args+=(--build-only)
+          fi
+          if [[ -n "$CURRENT_VERSION" ]]; then
+            if [[ "$BUILD_ONLY" != "true" ]]; then
+              echo 'current_version requires build_only=true' >&2
+              exit 1
+            fi
+            args+=(--current-version "$CURRENT_VERSION")
+          fi
+          python scripts/archive_ota.py "${args[@]}"
